@@ -19,9 +19,9 @@
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sarankumarprakash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sarankumarprakash/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sarankumar1317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sarankumar1317/" height="30" width="40" /></a>
-  <a href="https://wa.me/qr/LVJR6BWK5KHOP1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/qr/LVJR6BWK5KHOP1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sarankumarprakash/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sarankumarprakash/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/sarankumar1317/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sarankumar1317/" height="30" width="40" /></a>
+  <a href="https://wa.me/qr/LVJR6BWK5KHOP1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/qr/LVJR6BWK5KHOP1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
