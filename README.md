@@ -33,7 +33,7 @@
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarankumarprakash&" alt="sarankumarprakash" /></p>
 
 
-<h3 align="left">## ❤️ Support Me </h3>
+<h3 align="left"> ❤️ Support Me </h3>
 
  <p>If you find my work helpful, you can support me by:
 
