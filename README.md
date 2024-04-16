@@ -8,9 +8,14 @@
 <p align="left"> I believe in the continuous pursuit of knowledge, evidenced by my certifications ranging from Ethical Hacking to React Redux. It’s this passion for learning and self-improvement that drives me to explore innovative solutions and push the boundaries of what’s possible.</p>
 
 - 💬 Ask me about **React, Frontend Developement,**
-
-- 📫 How to reach me **sarankumar1317@gmail.com**
   
+
+## 🌱 Currently Learning
+
+- Node js
+- Prompt Engineering 
+- Ethical hacking & Cyber Security
+
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
@@ -25,4 +30,11 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sarankumarprakash&show_icons=true&locale=en" alt="sarankumarprakash" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarankumarprakash&show_icons=true&locale=en&layout=compact" alt="sarankumarprakash" /></p>
 <div> <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarankumarprakash&" alt="sarankumarprakash" /></p> </div>
+
+
+## ❤️ Support Me
+
+If you find my work helpful, you can support me by:
+
+- Giving a ⭐️ to my GitHub repositories.
 
