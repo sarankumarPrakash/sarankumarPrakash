@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm SaranKumar P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarankumarprakash" alt="sarankumarprakash" /></a> </p>
-
-- 🌱 I’m currently learning **Artificial Intelligence , Cyber security.**
+<h3 align="left"> About Me : </h3>
+<p align="left"> 
+🚀Transforming ideas into code one line at a time! Hi, I'm Sarankumar Prakash, your go-to Frontend Developer from the vibrant city of Chennai. In the digital realm of software development, I've carved out my niche with a robust 3-year track record across diverse sectors. With a keen eye for detail, I’ve mastered React.js, JavaScript, and Redux, ensuring every project not only meets but exceeds expectations.
+</p>
+<p align="left"> I believe in the continuous pursuit of knowledge, evidenced by my certifications ranging from Ethical Hacking to React Redux. It’s this passion for learning and self-improvement that drives me to explore innovative solutions and push the boundaries of what’s possible.</p>
 
 - 💬 Ask me about **React, Frontend Developement,**
 
