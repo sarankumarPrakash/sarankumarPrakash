@@ -6,15 +6,22 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🤔 &nbsp; Highly skilled software development professional bringing more years of experience in software design, development, and integration.
-- 🤔 &nbsp; Exercised knowledge of IT concepts, strategies, and methodologies. Utilized strong background in architecture and technical standards, design and development tools, and understanding of shared software concepts.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our  tech problems.
+- 🤔 &nbsp;  skilled software development professional bringing 3 years of experience in software design, development, and integration.
+- 🤔 &nbsp; Exercised knowledge of IT concepts, strategies, and methodologies. 
 - 🤔 &nbsp; Able to perform optimization and increase the performance of REST API services in Node Js, Firebase 
 - 🤔 &nbsp; Expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs.
-- 🤔 &nbsp; More passionate about Angular and worked on various projects with different versions of Angular.
-- 🤔 &nbsp; Advanced concepts like SEO, Angular Universal, Progressive Webapps also implemented in various projects in Angular
-- 🤔 &nbsp; Good working experience in AWS technologies like Ec2, Lambda functions, SQS, SES.
-- 🤔 &nbsp; Strongly analytical with backend unit testing skills help me to deliver a quality product
+- 🤔 &nbsp; More passionate about React and worked on various projects with different versions of React.
+- 🤔 &nbsp; Advanced concepts like Redux, Formik, Axios, jest, and page responsive 
+- 🤔 &nbsp; Strongly analytical with unit testing skills help me to deliver a quality product
+- 🤔 &nbsp; Utilized strong background in architecture and technical standards, design and development tools, and understanding of shared software concepts.
+- 
+
+### 💻 &nbsp;Currently Learning 
+
+- 🤖 &nbsp; Artifical Intellgence
+- 🔒 &nbsp; Cybersecurity & Ethical hacking 
+- 🔧 &nbsp; prompt Engineering  
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,6 +32,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
