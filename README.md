@@ -42,5 +42,5 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sarankumarprakash"><img src="https://img.shields.io/badge/-Ravi%20Chandhar%20P.B-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sarankumar1317@gmail.com"><img src="https://img.shields.io/badge/-ravifabulous471@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarankumarprakash"><img src="https://img.shields.io/badge/-saran%20kumar%20P-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sarankumar1317@gmail.com"><img src="https://img.shields.io/badge/-sarankumar1317@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
