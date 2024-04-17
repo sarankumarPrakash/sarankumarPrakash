@@ -1,42 +1,46 @@
-<h1 align="center">Hi 👋, I'm SaranKumar P</h1>
-<h4 align="center">Innovative React.js Developer | Agile & Scrum Enthusiast | Committed to Optimizing Development Processes</h4>
 
-<h3 align="left">💼 About Me : </h3>
-<p align="left"> 
-🚀Transforming ideas into code one line at a time! Hi, I'm Sarankumar Prakash, your go-to Frontend Developer from the vibrant city of Chennai. In the digital realm of software development, I've carved out my niche with a robust 3-year track record across diverse sectors. With a keen eye for detail, I’ve mastered React.js, JavaScript, and Redux, ensuring every project not only meets but exceeds expectations.
+
+### Hello Folks 👋
+
+## I'm Sarankumar P ![](https://komarev.com/ghpvc/?username=pbravichandhar&color=brightgreen&label=PROFILE+VIEWS)
+
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🤔 &nbsp; Highly skilled software development professional bringing more years of experience in software design, development, and integration.
+- 🤔 &nbsp; Exercised knowledge of IT concepts, strategies, and methodologies. Utilized strong background in architecture and technical standards, design and development tools, and understanding of shared software concepts.
+- 🤔 &nbsp; Able to perform optimization and increase the performance of REST API services in Node Js, Firebase 
+- 🤔 &nbsp; Expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs.
+- 🤔 &nbsp; More passionate about Angular and worked on various projects with different versions of Angular.
+- 🤔 &nbsp; Advanced concepts like SEO, Angular Universal, Progressive Webapps also implemented in various projects in Angular
+- 🤔 &nbsp; Good working experience in AWS technologies like Ec2, Lambda functions, SQS, SES.
+- 🤔 &nbsp; Strongly analytical with backend unit testing skills help me to deliver a quality product
+
+
+### 🛠 &nbsp;Tech Stack
+
+- 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+<!---
+## My Stats
+<p>
+<a href="https://github.com/pbravichandhar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pbravichandhar&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbravichandhar&theme=radical&layout=compact" />
+</a>
 </p>
-<p align="left"> I believe in the continuous pursuit of knowledge, evidenced by my certifications ranging from Ethical Hacking to React Redux. It’s this passion for learning and self-improvement that drives me to explore innovative solutions and push the boundaries of what’s possible.</p>
+---->
 
-- 💬 Ask me about **React, Frontend Developement,**
-  
+##  🤝🏻 &nbsp;Connect with Me
 
-## 🌱 Currently Learning
-
-- Node js
-- Prompt Engineering 
-- Ethical hacking & Cyber Security
-
-
-<h3 align="left"> 🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sarankumarprakash/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sarankumarprakash/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sarankumar1317/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sarankumar1317/" height="30" width="40" /></a>
-  <a href="https://wa.me/qr/LVJR6BWK5KHOP1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/qr/LVJR6BWK5KHOP1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left"> 🛠️ Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sarankumarprakash&show_icons=true&locale=en" alt="sarankumarprakash" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarankumarprakash&show_icons=true&locale=en&layout=compact" alt="sarankumarprakash" /></p>
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarankumarprakash&" alt="sarankumarprakash" /></p>
-
-</br>
-<h3 align="left"> ❤️ Support Me </h3>
-
- <p>If you find my work helpful, you can support me by:
-
-- Giving a ⭐️ to my GitHub repositories.
-</p>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/sarankumarprakash"><img src="https://img.shields.io/badge/-Ravi%20Chandhar%20P.B-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sarankumar1317@gmail.com"><img src="https://img.shields.io/badge/-ravifabulous471@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
