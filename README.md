@@ -29,8 +29,12 @@
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=Mui)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
+  ![Html](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
