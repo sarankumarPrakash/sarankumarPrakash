@@ -2,7 +2,7 @@
 
 ### Hello Folks 👋
 
-## I'm Sarankumar P ![](https://komarev.com/ghpvc/?username=pbravichandhar&color=brightgreen&label=PROFILE+VIEWS)
+## I'm Sarankumar P ![](https://komarev.com/ghpvc/?username=sarankumarPrakash&color=brightgreen&label=PROFILE+VIEWS)
 
 ### 💻 &nbsp;About Me 
 
