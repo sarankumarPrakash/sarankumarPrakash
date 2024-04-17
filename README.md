@@ -4,10 +4,11 @@
 
 ## I'm Sarankumar P ![](https://komarev.com/ghpvc/?username=sarankumarPrakash&color=brightgreen&label=PROFILE+VIEWS)
 
+
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our  tech problems.
 - 🤔 &nbsp;  skilled software development professional bringing 3 years of experience in software design, development, and integration.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our  tech problems.
 - 🤔 &nbsp; Exercised knowledge of IT concepts, strategies, and methodologies. 
 - 🤔 &nbsp; Able to perform optimization and increase the performance of REST API services in Node Js, Firebase 
 - 🤔 &nbsp; Expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs.
@@ -15,7 +16,6 @@
 - 🤔 &nbsp; Advanced concepts like Redux, Formik, Axios, jest, and page responsive 
 - 🤔 &nbsp; Strongly analytical with unit testing skills help me to deliver a quality product
 - 🤔 &nbsp; Utilized strong background in architecture and technical standards, design and development tools, and understanding of shared software concepts.
-- 
 
 ### 💻 &nbsp;Currently Learning 
 
@@ -30,14 +30,13 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=Mui)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
 
 ## My Stats
 <p>
