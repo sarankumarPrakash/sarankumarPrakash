@@ -10,7 +10,6 @@
 - 🤔 &nbsp;  skilled software development professional bringing 3 years of experience in software design, development, and integration.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our  tech problems.
 - 🤔 &nbsp; Exercised knowledge of IT concepts, strategies, and methodologies. 
-- 🤔 &nbsp; Able to perform optimization and increase the performance of REST API services in Node Js, Firebase 
 - 🤔 &nbsp; Expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs.
 - 🤔 &nbsp; More passionate about React and worked on various projects with different versions of React.
 - 🤔 &nbsp; Advanced concepts like Redux, Formik, Axios, jest, and page responsive 
