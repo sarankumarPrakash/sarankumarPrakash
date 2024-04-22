@@ -46,7 +46,7 @@
 - 🤖 &nbsp;
    ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux&logoColor=007ACC)
 
-## My Stats
+## My Stats 
 <p>
 <a href="https://github.com/sarankumarPrakash">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarankumarPrakash&show_icons=true&theme=radical" />
