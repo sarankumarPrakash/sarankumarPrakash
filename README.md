@@ -18,7 +18,7 @@
 
 ### 💻 &nbsp;Currently Learning 
 
-- 🤖 &nbsp; Artifical Intellgence
+- 🌐 &nbsp; Nextjs & Nestjs
 - 🔒 &nbsp; Cybersecurity & Ethical hacking 
 - 🔧 &nbsp; prompt Engineering  
 
@@ -26,6 +26,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+  ![Wix](https://img.shields.io/badge/-Wix-333333?style=flat&logo=wix)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
