@@ -47,8 +47,8 @@
 
 - 🤖 &nbsp;
    ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux&logoColor=007ACC)
-  ![Windows](https://img.shields.io/badge/-windows-333333?style=flat&logo=linux&logoColor=007ACC)
-  ![Ubuntu](https://img.shields.io/badge/-ubuntu-333333?style=flat&logo=linux&logoColor=007ACC)
+  ![Windows](https://img.shields.io/badge/-windows-333333?style=flat&logo=windows&logoColor=007ACC)
+  ![Ubuntu](https://img.shields.io/badge/-ubuntu-333333?style=flat&logo=ubuntu&logoColor=007ACC)
 
 ## My Stats 
 <p>
