@@ -40,13 +40,12 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Thonny](https://img.shields.io/badge/-Thonny-333333?style=flat&logo=Thonny&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm&logoColor=007ACC)
 
 - 🤖 &nbsp;
    ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux&logoColor=007ACC)
-  ![Windows](https://img.shields.io/badge/-windows-333333?style=flat&logo=windows&logoColor=007ACC)
-  ![Ubuntu](https://img.shields.io/badge/-ubuntu-333333?style=flat&logo=ubuntu&logoColor=007ACC)
+   ![Windows](https://img.shields.io/badge/-windows-333333?style=flat&logo=windows&logoColor=007ACC)
+   ![Ubuntu](https://img.shields.io/badge/-ubuntu-333333?style=flat&logo=ubuntu&logoColor=007ACC)
 
 ## My Stats 
 <p>
