@@ -7,10 +7,9 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp;  skilled software development professional bringing 3 years of experience in software design, development, and integration.
+- 🤔 &nbsp;  skilled software development professional bringing 4 years of experience in  development, and integration.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our  tech problems.
 - 🤔 &nbsp; Exercised knowledge of IT concepts, strategies, and methodologies. 
-- 🤔 &nbsp; Expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs.
 - 🤔 &nbsp; More passionate about React and worked on various projects with different versions of React.
 - 🤔 &nbsp; Advanced concepts like Redux, Formik, Axios, jest, and page responsive 
 - 🤔 &nbsp; Strongly analytical with unit testing skills help me to deliver a quality product
@@ -20,8 +19,11 @@
 
 - 🌐 &nbsp; Node.js , Next.js , Nest.js & TypeScript
 - 🔒 &nbsp; Cybersecurity & Ethical hacking 
-- 🔧 &nbsp; prompt Engineering  
+- 🔧 &nbsp; prompt Engineering
 
+### 💻 &nbsp; Certification
+
+- 🔒 &nbsp; Cetified Penertartion Tester
 
 ### 🛠 &nbsp;Tech Stack
 
