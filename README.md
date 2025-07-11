@@ -24,6 +24,7 @@
 ### 💻 &nbsp; Certification
 
 - 🔒 &nbsp; Cetified Penertartion Tester
+- 🌐  &nbsp; n8n - automation
 
 ### 🛠 &nbsp;Tech Stack
 
